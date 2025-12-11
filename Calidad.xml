@@ -1,0 +1,10 @@
+<html>
+	<body>
+		<table border = "1">
+			<tr>
+				<td>Calidad</td>
+				<td>Precio</td>	
+			</tr>
+		</table>
+	</body>
+</html>
