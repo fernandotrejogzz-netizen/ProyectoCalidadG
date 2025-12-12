@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3124D3-D713-A4D5-1C95-175165E4E821}|Prueba\\Prueba.csproj|c:\\fernandotrejo\\repositorios\\proyectocalidadg1\\proyectocalidadg\\prueba\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3124D3-D713-A4D5-1C95-175165E4E821}|Prueba\\Prueba.csproj|solutionrelative:prueba\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3124D3-D713-A4D5-1C95-175165E4E821}|Prueba\\Prueba.csproj|c:\\fernandotrejo\\repositorios\\proyectocalidadg1\\proyectocalidadg\\prueba\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6E3124D3-D713-A4D5-1C95-175165E4E821}|Prueba\\Prueba.csproj|solutionrelative:prueba\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3124D3-D713-A4D5-1C95-175165E4E821}|Prueba\\Prueba.csproj|c:\\fernandotrejo\\repositorios\\proyectocalidadg1\\proyectocalidadg\\prueba\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3124D3-D713-A4D5-1C95-175165E4E821}|Prueba\\Prueba.csproj|solutionrelative:prueba\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3124D3-D713-A4D5-1C95-175165E4E821}|Prueba\\Prueba.csproj|c:\\fernandotrejo\\repositorios\\proyectocalidadg1\\proyectocalidadg\\prueba\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3124D3-D713-A4D5-1C95-175165E4E821}|Prueba\\Prueba.csproj|solutionrelative:prueba\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3124D3-D713-A4D5-1C95-175165E4E821}|Prueba\\Prueba.csproj|c:\\fernandotrejo\\repositorios\\proyectocalidadg1\\proyectocalidadg\\prueba\\pages\\calidad.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6E3124D3-D713-A4D5-1C95-175165E4E821}|Prueba\\Prueba.csproj|solutionrelative:prueba\\pages\\calidad.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3124D3-D713-A4D5-1C95-175165E4E821}|Prueba\\Prueba.csproj|c:\\fernandotrejo\\repositorios\\proyectocalidadg1\\proyectocalidadg\\prueba\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3124D3-D713-A4D5-1C95-175165E4E821}|Prueba\\Prueba.csproj|solutionrelative:prueba\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3124D3-D713-A4D5-1C95-175165E4E821}|Prueba\\Prueba.csproj|c:\\fernandotrejo\\repositorios\\proyectocalidadg1\\proyectocalidadg\\prueba\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3124D3-D713-A4D5-1C95-175165E4E821}|Prueba\\Prueba.csproj|solutionrelative:prueba\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3124D3-D713-A4D5-1C95-175165E4E821}|Prueba\\Prueba.csproj|c:\\fernandotrejo\\repositorios\\proyectocalidadg1\\proyectocalidadg\\prueba\\pages\\pedido.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6E3124D3-D713-A4D5-1C95-175165E4E821}|Prueba\\Prueba.csproj|solutionrelative:prueba\\pages\\pedido.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3124D3-D713-A4D5-1C95-175165E4E821}|Prueba\\Prueba.csproj|c:\\fernandotrejo\\repositorios\\proyectocalidadg1\\proyectocalidadg\\prueba\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3124D3-D713-A4D5-1C95-175165E4E821}|Prueba\\Prueba.csproj|solutionrelative:prueba\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Prueba\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Prueba\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T19:56:40.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Prueba\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Prueba\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-12T19:56:30.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calidad.xml",
+              "DocumentMoniker": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\Pages\\Calidad.xml",
+              "RelativeDocumentMoniker": "Prueba\\Pages\\Calidad.xml",
+              "ToolTip": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\Pages\\Calidad.xml",
+              "RelativeToolTip": "Prueba\\Pages\\Calidad.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-12T19:55:45.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Prueba\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Prueba\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T19:55:42.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pedido.xml",
+              "DocumentMoniker": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\Pages\\Pedido.xml",
+              "RelativeDocumentMoniker": "Prueba\\Pages\\Pedido.xml",
+              "ToolTip": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\Pages\\Pedido.xml",
+              "RelativeToolTip": "Prueba\\Pages\\Pedido.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-12T19:55:36.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Prueba\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Prueba\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T19:53:41.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Prueba\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Prueba\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T19:53:32.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Prueba\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Prueba\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T19:53:29.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Prueba\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Prueba\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T19:52:03.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

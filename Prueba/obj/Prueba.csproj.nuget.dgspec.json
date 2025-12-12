@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\FernandoTrejo\\ProyectosEjemplos\\Prueba\\Prueba\\Prueba.csproj": {}
+    "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\Prueba.csproj": {}
   },
   "projects": {
-    "C:\\FernandoTrejo\\ProyectosEjemplos\\Prueba\\Prueba\\Prueba.csproj": {
+    "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\Prueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FernandoTrejo\\ProyectosEjemplos\\Prueba\\Prueba\\Prueba.csproj",
+        "projectUniqueName": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\Prueba.csproj",
         "projectName": "Prueba",
-        "projectPath": "C:\\FernandoTrejo\\ProyectosEjemplos\\Prueba\\Prueba\\Prueba.csproj",
+        "projectPath": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\Prueba.csproj",
         "packagesPath": "C:\\Users\\Luis Tamez\\.nuget\\packages\\",
-        "outputPath": "C:\\FernandoTrejo\\ProyectosEjemplos\\Prueba\\Prueba\\obj\\",
+        "outputPath": "C:\\FernandoTrejo\\Repositorios\\ProyectoCalidadG1\\ProyectoCalidadG\\Prueba\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
