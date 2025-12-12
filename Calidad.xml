@@ -3,7 +3,9 @@
 		<table border = "1">
 			<tr>
 				<td>Calidad</td>
-				<td>Precio</td>	
+				<td>Precio</td>
+				<td>Cantidad</td>
+					
 			</tr>
 		</table>
 	</body>
